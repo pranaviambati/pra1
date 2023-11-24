@@ -1,5 +1,6 @@
-This is  login file.
-souce file
-text
-same
-echo "this is sample file "
+#!/bin/bash 
+echo "Welcome Login page"
+read -p "Enter your name :", name
+read -ps "Enter passwd: ",pswd
+echo
+echo "welcome $name to event"
