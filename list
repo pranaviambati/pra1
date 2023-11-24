@@ -1,0 +1,11 @@
+#!/bin/bash
+#ls command with options 
+ls # display list files and directories
+ls -l # displays long list of files and directories
+ls -lt # display files and directories with time stamp
+ls -lr # display files and directories in reverse order
+ls -a # display hidden files and directories
+ls -li linux  # -i  display inode number of file
+#ls -ldi dirname displays inode number of directory
+du -h # shows disk usage of of file and dir # du -h filename
+
