@@ -1,11 +1,22 @@
 #!/bin/bash
-#ls command with options 
-ls # display list files and directories
-ls -l # displays long list of files and directories
-ls -lt # display files and directories with time stamp
-ls -lr # display files and directories in reverse order
-ls -a # display hidden files and directories
-ls -li linux  # -i  display inode number of file
-#ls -ldi dirname displays inode number of directory
-du -h # shows disk usage of of file and dir # du -h filename
+#ls commanD with options 
+# Display list files anD Directories
+ls 
+# Displays long list of files anD Directories
+ls -l 
+# Display files anD Directories with time stamp
+ls -lt
+# Display files anD Directories in reverse orDer
+ls -ltr
+# Display hiDDen files anD Directories
+ls -a 
+# -i  Display inode number of file
+# inode is nothing but unique indification number of files and directories .
+#It display details of files and directories in numerical format.it's nothing but data about data like meta data.
+ls -li linux  
+#ls -ldi Dirname Displays inoDe number of Directory
+# shows Disk usage of of file anD Dir 
+du -h 
+# du -h filename
+# du -h dirname
 
