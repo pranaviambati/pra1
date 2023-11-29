@@ -1,0 +1,6 @@
+#!/bin/bash 
+echo "Name of new file :"
+read A
+echo "Name of file is $A"
+echo -p "Name of the person" B
+echo "welcome to the contest.Thankyou for comming $B"
