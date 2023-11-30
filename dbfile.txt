@@ -2,5 +2,10 @@
 echo "Name of new file :"
 read A
 echo "Name of file is $A"
-read -p "Name of the person" B
-echo "welcome to the contest.Thankyou for attenting event  $B"
+read -p "Give access to user" username
+echo "Acess for $username is granted"
+read -sp "Enter one time password" psswd
+echo 
+echo "Share username and password to $username"
+echo "Enter: $username and $psswd"
+echo "Revoke the access for $username after deployingcode"
