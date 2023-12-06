@@ -1,9 +1,12 @@
 #!/bin/bash
-echo"list files and dir"
+echo"list hidden files"
 ls -a
-echo"system-serial-number"
-sudo dmidecode system-serial-number
+echo"longlist of files and dir"
+ls -l
 echo "uptime of system"
 uptime
-echo "logging list of system"
-last
+echo "present working directory"
+pwd
+
+
+
