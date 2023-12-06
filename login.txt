@@ -1,6 +1,0 @@
-#!/bin/bash 
-echo "Welcome Login page"
-read -p "Enter your name :" name
-read -sp "Enter password :" pswd
-echo
-echo "welcome $name to event"

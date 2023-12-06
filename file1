@@ -1,9 +1,0 @@
-#!/bin/bash
-echo"list files and dir"
-ls -a
-echo"system-serial-number"
-sudo dmidecode system-serial-number
-echo "uptime of system"
-uptime
-echo "logging list of system"
-last
