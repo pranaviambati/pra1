@@ -1,0 +1,5 @@
+#!/bin/bash 
+echo "new files :"
+echo "Enter new files:"
+read files
+echo "$files enterd by users"
