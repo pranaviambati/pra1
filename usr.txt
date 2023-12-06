@@ -3,3 +3,6 @@ echo "new files :"
 echo "Enter new files:"
 read files
 echo "$files enterd by users"
+echo "Enter username"
+read user
+echo "list of users $user"
