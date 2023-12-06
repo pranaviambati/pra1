@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Enter file name:"
+read filename
+echo "$filename has access to normal users"
+
