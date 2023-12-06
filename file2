@@ -1,9 +1,4 @@
-echo "###############################"
-ls -a
-ls -i
-ls -lr |tail -5
-ls -lt |head -5
->>>>>>> dev1
+
 #!/bin/bash
 echo "Enter file name:"
 read filename
