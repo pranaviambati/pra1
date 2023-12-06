@@ -1,3 +1,7 @@
+echo "*****************************"
+echo $PWD
+echo $HOSTNAME
+echo $BASH
 #!/bin/bash
 echo "Enter file name:"
 read filename
