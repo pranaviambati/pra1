@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "users names are noted"
+echo$HISTORY
+echo "ENV"
+echo "username"
+echo "enter file names of user: "
+
+
