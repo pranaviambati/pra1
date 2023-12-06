@@ -1,5 +1,11 @@
+echo "###############################"
+ls -a
+ls -i
+ls -lr |tail -5
+ls -lt |head -5
 #!/bin/bash
 echo "Enter file name:"
 read filename
 echo "$filename has access to normal users"
+echo "$filename is written in text docs."
 
