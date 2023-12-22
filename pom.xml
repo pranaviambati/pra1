@@ -2,5 +2,10 @@
 	<groupId>com.pra1</groupId>
 	<artifactId>pra1</artifactId>
 	<version>1.0-snapshot</version>
-	< packaging>war</packaging>
+	<packaging>war</packaging>
+
+	 <build>
+    <finalName>flipkart</finalName>
+  </build>
+
 </Project>
