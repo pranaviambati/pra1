@@ -3,9 +3,8 @@
 	<artifactId>pra1</artifactId>
 	<version>1.0-snapshot</version>
 	<packaging>war</packaging>
+ <build>
+    <finalName>pra1</finalName>
+ </build>
 
-	 <build>
-    <finalName>flipkart</finalName>
-  </build>
-
-</Project>
+</project>
