@@ -1,4 +1,5 @@
 <project>
+	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pra1</groupId>
 	<artifactId>pra1</artifactId>
 	<version>1.0-snapshot</version>
