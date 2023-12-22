@@ -1,4 +1,6 @@
-112222222222222222222
-ppppppppppppppppppppp
-rrrrrrrrrrrrrrrrrrrrrrrrrrrr
-
+<project>
+	<groupId>com.pra1</groupId>
+	<artifactId>pra1</artifactId>
+	<version>1.0-snapshot</version>
+	< packaging>war</packaging>
+</Project>
